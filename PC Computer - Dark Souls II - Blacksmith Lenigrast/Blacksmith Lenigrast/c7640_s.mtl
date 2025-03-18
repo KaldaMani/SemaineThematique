@@ -1,0 +1,96 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump  WP_2520_M_n.png
+map_Kd  WP_2520_M_d.png
+map_Ks  WP_2520_M_s.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump  WP_2620_M_n.png
+map_Kd  WP_2620_M_d.png
+map_Ks  WP_2620_M_s.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump  WP_2510_M_n.png
+map_Kd  WP_2510_M_d.png
+map_Ks  WP_2510_M_s.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump  BD_c7640_1_n.png
+map_Kd  BD_c7640_1_d.png
+map_Ks  BD_c7640_1_s.png
+map_d  BD_c7640_1_d.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump  FC_c7640_n.png
+map_Kd  FC_c7640_d.png
+map_Ks  FC_c7640_s.png
+map_d  FC_c7640_d.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump  HR_c7640_n.png
+map_Kd  HR_c7640_d.png
+map_Ks  HR_c7640_s.png
+map_d  HR_c7640_d.png
+
+newmtl Material.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump  BD_c7640_2_n.png
+map_Kd  BD_c7640_2_d.png
+map_Ks  BD_c7640_2_s.png
