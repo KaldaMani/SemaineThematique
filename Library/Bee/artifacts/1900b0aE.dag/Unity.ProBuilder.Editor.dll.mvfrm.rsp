@@ -94,6 +94,9 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_97D89FD0A86ADBB9.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_5DB178B6ED86465B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.WebGL.Extensions.dll_17ACD1E14BE4AB5B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.WindowsStandalone.Extensions.dll_5E0320579CF91ECB.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DBC5D081C4D6AF26.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_B06B77423C8110AF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_BE5647D59BA90757.mvfrm
