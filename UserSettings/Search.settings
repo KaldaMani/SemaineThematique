@@ -11,6 +11,11 @@ scopes = {
 	"last_search.310DEAF1" = "Giz"
 	"OpenInspectorPreview.310DEAF1" = "0"
 	"currentGroup.310DEAF1" = "all"
+	"picker_window_position_offset.E06AA71F" = "36;176,8;320;550,4"
+	"picker_search_text.E06AA71F" = ""
+	"last_search.E06AA71F" = ""
+	"OpenInspectorPreview.E06AA71F" = "0"
+	"currentGroup.E06AA71F" = "all"
 }
 providers = {
 	packages = {

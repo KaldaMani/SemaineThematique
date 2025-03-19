@@ -1,0 +1,181 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.10f1 (ff3792e53c62) revision 16725906'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'fr' Physical Memory: 7991 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\2022.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+D:/SemaineThematique
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+54508
+Successfully changed project path to: D:/SemaineThematique
+D:/SemaineThematique
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13868] Host "[IP] 10.213.151.96 [Port] 0 [Flags] 2 [Guid] 3066423546 [EditorId] 3066423546 [Version] 1048832 [Id] WindowsEditor(7,Pc-alex-lycee) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13868] Host "[IP] 10.213.151.96 [Port] 0 [Flags] 2 [Guid] 3066423546 [EditorId] 3066423546 [Version] 1048832 [Id] WindowsEditor(7,Pc-alex-lycee) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 1189.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.10f1 (ff3792e53c62)
+[Subsystems] Discovering subsystems at path D:/Unity/2022.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/SemaineThematique/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3995 MB
+    Driver:   27.20.100.9664
+Initialize mono
+Mono path[0] = 'D:/Unity/2022.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.034478 seconds.
+- Loaded All Assemblies, in  3.011 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.860 seconds
+Domain Reload Profiling: 4874ms
+	BeginReloadAssembly (1018ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (335ms)
+	RebuildNativeTypeToScriptingClass (70ms)
+	initialDomainReloadingComplete (509ms)
+	LoadAllAssembliesAndSetupDomain (1073ms)
+		LoadAssemblies (1015ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1058ms)
+			TypeCache.Refresh (1048ms)
+				TypeCache.ScanAssembly (934ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1869ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1477ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (70ms)
+			SetLoadedEditorAssemblies (30ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (29ms)
+			ProcessInitializeOnLoadAttributes (870ms)
+			ProcessInitializeOnLoadMethodAttributes (474ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+OutOfMemoryException: Out of memory
+  at (wrapper managed-to-native) System.Object.__icall_wrapper_ves_icall_array_new_specific(intptr,int)
+  at System.IO.BinaryReader.ReadBytes (System.Int32 count) [0x0002f] in <787acc3c9a4c471ba7d971300105af24>:0 
+  at Mono.Cecil.PE.ImageReader.ReadHeapData (System.UInt32 offset, System.UInt32 size) [0x00024] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadMetadataStream (Mono.Cecil.PE.Section section) [0x00021] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadMetadata () [0x0007b] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadImage () [0x000a2] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadImage (Mono.Disposable`1[T] stream, System.String file_name) [0x00007] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (Mono.Disposable`1[T] stream, System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00006] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x0006c] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.AssemblyDefinition.ReadAssembly (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00000] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at UnityEditor.AssemblyValidation.LoadAssemblyDefinitions (System.String[] assemblyPaths, System.String[] searchPaths) [0x00048] in <fe7039efe678478d9c83e73bc6a6566d>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblies (System.String[] assemblyPaths, System.Boolean enableLogging) [0x00007] in <fe7039efe678478d9c83e73bc6a6566d>:0 
+
+Failed loading assembly Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll" reason: Not enough space
+Failed loading assembly Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll" reason: Not enough space
+Failed loading assembly Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll" reason: Not enough space
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Received signal SIGSEGV
+Obtained 26 stack frames
+0x00007ff63836d038 (Unity) 
+0x00007ff63837b2ac (Unity) 
+0x00007ff63836d751 (Unity) 
+0x00007ff63837783e (Unity) 
+0x00007ff637c63d97 (Unity) 
+0x00007ff637c62a6a (Unity) 
+0x00007ff638a486c7 (Unity) 
+0x00007ff638a47b02 (Unity) 
+0x00007ff638a4791b (Unity) 
+0x00007ff638a46e8c (Unity) 
+0x00007ff638a49f7c (Unity) 
+0x00007ff6399e10e2 (Unity) 
+0x00007ff6399e1694 (Unity) 
+0x00007ff639ee22ef (Unity) udnSetPath
+0x00007ff639f1bf32 (Unity) udnSetPath
+0x00007ff639f07ede (Unity) udnSetPath
+0x00007ff639f09b44 (Unity) udnSetPath
+0x00007ff639f1a2dc (Unity) udnSetPath
+0x00007ff639eee65f (Unity) udnSetPath
+0x00007ff639eb9227 (Unity) udnSetPath
+0x00007ff639eb92ab (Unity) udnSetPath
+0x00007ff6396ba750 (Unity) 
+0x00007ff639b43635 (Unity) 
+0x00007ff63af27dbe (Unity) udnSetPath
+0x00007ffbada7259d (KERNEL32) BaseThreadInitThunk
+0x00007ffbaf3caf38 (ntdll) 
+

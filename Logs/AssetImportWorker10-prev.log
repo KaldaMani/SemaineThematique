@@ -1,0 +1,45 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.10f1 (ff3792e53c62) revision 16725906'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'fr' Physical Memory: 7991 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\2022.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+D:/SemaineThematique
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+54508
+Successfully changed project path to: D:/SemaineThematique
+D:/SemaineThematique
+received signal from system: SIGSEGV
+Obtained 22 stack frames
+0x00007ff638b6282d (Unity) 
+0x00007ff638b677d9 (Unity) 
+0x00007ff639b37831 (Unity) 
+0x00007ff638b66c26 (Unity) 
+0x00007ff638b6205c (Unity) 
+0x00007ff63af80ab8 (Unity) udnSetPath
+0x00007ff63b044558 (Unity) udnSetPath
+0x00007ff63af4a450 (Unity) udnSetPath
+0x00007ffbaf41547f (ntdll) _chkstk
+0x00007ffbaf38e886 (ntdll) RtlFindCharInUnicodeString
+0x00007ffbaf41447e (ntdll) KiUserExceptionDispatcher
+0x00007ff63837319a (Unity) 
+0x00007ff63836e260 (Unity) 
+0x00007ff63836d038 (Unity) 
+0x00007ff638379f9f (Unity) 
+0x00007ff638371a3d (Unity) 
+0x00007ff6383733f6 (Unity) 
+0x00007ff6396b8c3e (Unity) 
+0x00007ff639b43635 (Unity) 
+0x00007ff63af27dbe (Unity) udnSetPath
+0x00007ffbada7259d (KERNEL32) 
+0x00007ffbaf3caf38 (ntdll) RtlUserThreadStart
+
